@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+}
+
+.container {
+    width: 800px;
+    margin: auto;
+    background: white;
+    padding: 30px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.contact {
+    text-align: center;
+}
+
+h2 {
+    color: #2c3e50;
+    border-bottom: 2px solid #2c3e50;
+}
+
+ul {
+    margin-left: 20px;
+}
+
+p {
+    line-height: 1.6;
+}
+
+hr {
+    margin: 20px 0;
+}
